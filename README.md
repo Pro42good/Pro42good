@@ -15,6 +15,7 @@ I'm Learning engineering (Generalized) to get a certification for the real world
  - A new computer architecture (On pause)
  - Side projects (On pause)
  - School
+ - My website.
 
 
 <!--

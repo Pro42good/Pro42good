@@ -9,7 +9,7 @@ I Dual boot! Screw the arguement between windows and linux, if it works it works
 ### What Im doin:
  - existing
  - School
-
+ - Slow but good enough effort being put into JALB a Open Claw alternative made for local LLM.
 
 <!--
 **Pro42good/Pro42good** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

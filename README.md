@@ -12,5 +12,6 @@ I Dual boot! Screw the arguement between windows and linux, if it works it works
  - Alloy OS
  - JALB (Just a little robot)
  - System2
+ - Pits of hell for android rom development, currently just research.
 
 </div>

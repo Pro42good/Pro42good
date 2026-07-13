@@ -11,7 +11,7 @@ I Dual boot! Screw the arguement between windows and linux, if it works it works
 ### What Im doin:
  - Alloy OS
  - JALB (Just a little robot)
- - System2
+ - URE (Universal Runtime Engine)
  - Pits of hell for android rom development, currently just research.
 
 </div>

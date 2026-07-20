@@ -14,5 +14,6 @@ I Dual boot! Screw the arguement between windows and linux, if it works it works
  - URE (Universal Runtime Engine)
  - Pits of hell for android rom development, currently just research.
  - Alloy OS
+ - LGRT (Last Generation Runtime Techniques)
 
 </div>
